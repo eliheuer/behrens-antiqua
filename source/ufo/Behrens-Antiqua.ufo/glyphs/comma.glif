@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma" format="1">
+  <advance width="291.440491736"/>
+  <unicode hex="002C"/>
+  <outline>
+    <contour>
+      <point x="72.4404917363" y="-115" type="curve"/>
+      <point x="115.440491736" y="-102"/>
+      <point x="241.440491736" y="-71"/>
+      <point x="241.440491736" y="111" type="curve"/>
+      <point x="241.440491736" y="114"/>
+      <point x="239.440491736" y="116"/>
+      <point x="236.440491736" y="116" type="curve"/>
+      <point x="110.440491736" y="116" type="line"/>
+      <point x="105.440491736" y="116"/>
+      <point x="101.440491736" y="112"/>
+      <point x="101.440491736" y="107" type="curve"/>
+      <point x="101.440491736" y="99" type="line"/>
+      <point x="101.440491736" y="94"/>
+      <point x="105.440491736" y="90"/>
+      <point x="110.440491736" y="90" type="curve"/>
+      <point x="126.440491736" y="90" type="line"/>
+      <point x="134.440491736" y="90"/>
+      <point x="141.440491736" y="85"/>
+      <point x="141.440491736" y="78" type="curve"/>
+      <point x="141.440491736" y="3"/>
+      <point x="133.440491736" y="-50"/>
+      <point x="56.4404917363" y="-93" type="curve"/>
+      <point x="48.4404917363" y="-98"/>
+      <point x="48.4404917363" y="-107"/>
+      <point x="53.4404917363" y="-112" type="curve"/>
+      <point x="57.4404917363" y="-116"/>
+      <point x="66.4404917363" y="-116"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>blackAndWhite</key>
+              <false/>
+              <key>brightness</key>
+              <integer>0</integer>
+              <key>contrast</key>
+              <integer>1</integer>
+              <key>path</key>
+              <string>/Users/allynsalomon/Desktop/new ref/_Q6Q5583.jpg</string>
+              <key>saturation</key>
+              <integer>1</integer>
+              <key>sharpness</key>
+              <real>0.4</real>
+              <key>transform</key>
+              <array>
+                <real>4.806270273448653</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>4.806270273448653</real>
+                <real>-6118.154707888968</real>
+                <real>-8692.288869978882</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>comma</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>291.440491736</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

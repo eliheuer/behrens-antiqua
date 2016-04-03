@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J" format="1">
+  <advance width="375.0"/>
+  <unicode hex="004A"/>
+  <outline>
+    <contour>
+      <point x="10" y="7" type="curve" smooth="yes"/>
+      <point x="27" y="-10"/>
+      <point x="63" y="-31"/>
+      <point x="115" y="-31" type="curve"/>
+      <point x="214" y="-31"/>
+      <point x="252.0" y="7.0"/>
+      <point x="295.0" y="65.0" type="curve" smooth="yes"/>
+      <point x="298.0" y="69.0"/>
+      <point x="300.0" y="70.0"/>
+      <point x="305.0" y="70.0" type="curve"/>
+      <point x="340.0" y="70.0" type="line"/>
+      <point x="343.0" y="70.0"/>
+      <point x="345.0" y="72.0"/>
+      <point x="345.0" y="75.0" type="curve"/>
+      <point x="345.0" y="695.0" type="line"/>
+      <point x="345.0" y="698.0"/>
+      <point x="343.0" y="700.0"/>
+      <point x="340.0" y="700.0" type="curve"/>
+      <point x="205.0" y="700.0" type="line"/>
+      <point x="199.0" y="700.0"/>
+      <point x="195.0" y="696.0"/>
+      <point x="195.0" y="690.0" type="curve"/>
+      <point x="195.0" y="684.0" type="line"/>
+      <point x="195.0" y="678.0"/>
+      <point x="199.0" y="674.0"/>
+      <point x="205.0" y="674.0" type="curve"/>
+      <point x="235.0" y="674.0" type="line"/>
+      <point x="238.0" y="674.0"/>
+      <point x="240.0" y="677.0"/>
+      <point x="240.0" y="674.0" type="curve"/>
+      <point x="240.0" y="161.0" type="line"/>
+      <point x="240.0" y="85.0"/>
+      <point x="198" y="2"/>
+      <point x="115" y="2" type="curve"/>
+      <point x="79" y="2"/>
+      <point x="52" y="12"/>
+      <point x="30" y="26" type="curve" smooth="yes"/>
+      <point x="22" y="31"/>
+      <point x="18" y="32"/>
+      <point x="13" y="27" type="curve" smooth="yes"/>
+      <point x="9" y="23" type="line" smooth="yes"/>
+      <point x="4" y="18"/>
+      <point x="3" y="14"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>J</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>375.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

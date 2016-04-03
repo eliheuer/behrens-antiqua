@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="1">
+  <advance width="386.5"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="40.75" y="184"/>
+      <point x="42.75" y="184"/>
+      <point x="42.75" y="185" type="curve"/>
+      <point x="64.75" y="207" type="line"/>
+      <point x="305.75" y="207" type="line"/>
+      <point x="355.75" y="273" type="line"/>
+      <point x="356.75" y="274"/>
+      <point x="356.75" y="275"/>
+      <point x="355.75" y="276" type="curve"/>
+      <point x="346.75" y="285" type="line"/>
+      <point x="345.75" y="286"/>
+      <point x="343.75" y="286"/>
+      <point x="343.75" y="285" type="curve"/>
+      <point x="321.75" y="263" type="line"/>
+      <point x="80.75" y="263" type="line"/>
+      <point x="30.75" y="197" type="line"/>
+      <point x="29.75" y="196"/>
+      <point x="29.75" y="195"/>
+      <point x="30.75" y="194" type="curve"/>
+      <point x="39.75" y="185" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>blackAndWhite</key>
+              <false/>
+              <key>brightness</key>
+              <integer>0</integer>
+              <key>contrast</key>
+              <integer>1</integer>
+              <key>path</key>
+              <string>/Users/allynsalomon/Desktop/new ref/_Q6Q5583.jpg</string>
+              <key>saturation</key>
+              <integer>1</integer>
+              <key>sharpness</key>
+              <real>0.4</real>
+              <key>transform</key>
+              <array>
+                <real>4.806270273448653</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>4.806270273448653</real>
+                <real>-12095.726183097973</real>
+                <real>-8687.288869978882</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>hyphen</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>386.5</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

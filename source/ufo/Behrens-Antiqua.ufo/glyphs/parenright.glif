@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright" format="1">
+  <advance width="215.196938457"/>
+  <unicode hex="0029"/>
+  <outline>
+    <contour>
+      <point x="185.196938457" y="458" name="inserted"/>
+      <point x="136.196938457" y="603"/>
+      <point x="66.1969384567" y="720" type="curve" smooth="yes"/>
+      <point x="55.1969384567" y="738"/>
+      <point x="51.1969384567" y="740"/>
+      <point x="41.1969384567" y="740" type="curve"/>
+      <point x="21.1969384567" y="740" type="line"/>
+      <point x="16.1969384567" y="740"/>
+      <point x="13.1969384567" y="737"/>
+      <point x="16.1969384567" y="730" type="curve" smooth="yes"/>
+      <point x="71.1969384567" y="599" name="inserted"/>
+      <point x="102.196938457" y="446"/>
+      <point x="102.196938457" y="280" type="curve"/>
+      <point x="102.196938457" y="114"/>
+      <point x="71.1969384567" y="-37" name="inserted"/>
+      <point x="16.1969384567" y="-168" type="curve" smooth="yes"/>
+      <point x="13.1969384567" y="-175"/>
+      <point x="16.1969384567" y="-178"/>
+      <point x="21.1969384567" y="-178" type="curve"/>
+      <point x="41.1969384567" y="-178" type="line"/>
+      <point x="51.1969384567" y="-178"/>
+      <point x="55.1969384567" y="-176"/>
+      <point x="66.1969384567" y="-158" type="curve" smooth="yes"/>
+      <point x="136.196938457" y="-41"/>
+      <point x="185.196938457" y="102" name="inserted"/>
+      <point x="185.196938457" y="280" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>parenright</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>215.196938457</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

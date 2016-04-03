@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="s" format="1">
+  <advance width="336"/>
+  <unicode hex="0073"/>
+  <outline>
+    <contour>
+      <point x="166" y="280" type="curve" smooth="yes"/>
+      <point x="277" y="145" type="line" smooth="yes"/>
+      <point x="301" y="116"/>
+      <point x="306" y="90"/>
+      <point x="306" y="65" type="curve" smooth="yes"/>
+      <point x="306" y="15"/>
+      <point x="276" y="0"/>
+      <point x="225" y="0" type="curve" smooth="yes"/>
+      <point x="40" y="0" type="line"/>
+      <point x="33" y="0"/>
+      <point x="30" y="3"/>
+      <point x="30" y="10" type="curve"/>
+      <point x="30" y="16" type="line"/>
+      <point x="30" y="23"/>
+      <point x="33" y="26"/>
+      <point x="40" y="26" type="curve"/>
+      <point x="146" y="30" type="line" smooth="yes"/>
+      <point x="187" y="32"/>
+      <point x="196" y="51"/>
+      <point x="196" y="71" type="curve" smooth="yes"/>
+      <point x="196" y="81"/>
+      <point x="193" y="96"/>
+      <point x="172" y="121" type="curve" smooth="yes"/>
+      <point x="61" y="255" type="line" smooth="yes"/>
+      <point x="46" y="273"/>
+      <point x="31" y="296"/>
+      <point x="31" y="326" type="curve" smooth="yes"/>
+      <point x="31" y="372"/>
+      <point x="73" y="400"/>
+      <point x="111" y="400" type="curve" smooth="yes"/>
+      <point x="290" y="400" type="line"/>
+      <point x="296" y="400"/>
+      <point x="300" y="396"/>
+      <point x="300" y="390" type="curve"/>
+      <point x="300" y="384" type="line"/>
+      <point x="300" y="378"/>
+      <point x="296" y="374"/>
+      <point x="290" y="374" type="curve"/>
+      <point x="186" y="370" type="line" smooth="yes"/>
+      <point x="153" y="369"/>
+      <point x="143" y="348"/>
+      <point x="143" y="330" type="curve" smooth="yes"/>
+      <point x="143" y="317"/>
+      <point x="148" y="302"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>blackAndWhite</key>
+              <false/>
+              <key>brightness</key>
+              <integer>0</integer>
+              <key>contrast</key>
+              <integer>1</integer>
+              <key>path</key>
+              <string>/Users/allynsalomon/Desktop/new ref/_Q6Q5583.jpg</string>
+              <key>saturation</key>
+              <integer>1</integer>
+              <key>sharpness</key>
+              <real>0.4</real>
+              <key>transform</key>
+              <array>
+                <real>4.828396964335359</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>4.828396964335359</real>
+                <real>-2939.656842350172</real>
+                <real>-5861.673914703127</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>s</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>336</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

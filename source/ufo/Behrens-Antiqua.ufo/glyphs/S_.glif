@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="S" format="1">
+  <advance width="489.853853136"/>
+  <unicode hex="0053"/>
+  <outline>
+    <contour>
+      <point x="223.853853136" y="-15" type="curve" smooth="yes"/>
+      <point x="154.853853136" y="-15"/>
+      <point x="65.8538531364" y="15"/>
+      <point x="28.8538531364" y="77" type="curve" smooth="yes"/>
+      <point x="19.8538531364" y="92"/>
+      <point x="23.8538531364" y="100"/>
+      <point x="36.8538531364" y="106" type="curve" smooth="yes"/>
+      <point x="104.853853136" y="140" type="line" smooth="yes"/>
+      <point x="116.853853136" y="146"/>
+      <point x="124.853853136" y="142"/>
+      <point x="133.853853136" y="130" type="curve" smooth="yes"/>
+      <point x="175.853853136" y="71"/>
+      <point x="223.853853136" y="56"/>
+      <point x="269.853853136" y="56" type="curve" smooth="yes"/>
+      <point x="350.853853136" y="56"/>
+      <point x="390.853853136" y="96"/>
+      <point x="389.853853136" y="147" type="curve" smooth="yes"/>
+      <point x="388.853853136" y="183"/>
+      <point x="370.853853136" y="222"/>
+      <point x="302.853853136" y="267" type="curve" smooth="yes"/>
+      <point x="147.853853136" y="369" type="line" smooth="yes"/>
+      <point x="82.8538531364" y="412"/>
+      <point x="50.8538531364" y="457"/>
+      <point x="50.8538531364" y="527" type="curve" smooth="yes"/>
+      <point x="50.8538531364" y="633"/>
+      <point x="140.853853136" y="715"/>
+      <point x="250.853853136" y="715" type="curve" smooth="yes"/>
+      <point x="355.853853136" y="715"/>
+      <point x="410.853853136" y="672"/>
+      <point x="437.853853136" y="631" type="curve" smooth="yes"/>
+      <point x="445.853853136" y="619"/>
+      <point x="440.853853136" y="613"/>
+      <point x="428.853853136" y="608" type="curve" smooth="yes"/>
+      <point x="351.853853136" y="578" type="line" smooth="yes"/>
+      <point x="339.853853136" y="573"/>
+      <point x="335.853853136" y="575"/>
+      <point x="328.853853136" y="589" type="curve" smooth="yes"/>
+      <point x="312.853853136" y="620"/>
+      <point x="270.853853136" y="642"/>
+      <point x="218.853853136" y="642" type="curve" smooth="yes"/>
+      <point x="150.853853136" y="642"/>
+      <point x="117.853853136" y="609"/>
+      <point x="117.853853136" y="576" type="curve" smooth="yes"/>
+      <point x="117.853853136" y="538"/>
+      <point x="131.853853136" y="519"/>
+      <point x="193.853853136" y="479" type="curve" smooth="yes"/>
+      <point x="372.853853136" y="362" type="line" smooth="yes"/>
+      <point x="431.853853136" y="324"/>
+      <point x="465.853853136" y="277"/>
+      <point x="465.853853136" y="205" type="curve"/>
+      <point x="465.853853136" y="110"/>
+      <point x="380.853853136" y="-15"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>blackAndWhite</key>
+              <false/>
+              <key>brightness</key>
+              <integer>0</integer>
+              <key>contrast</key>
+              <integer>1</integer>
+              <key>path</key>
+              <string>/Users/allynsalomon/Desktop/new ref/_Q6Q5579.jpg</string>
+              <key>saturation</key>
+              <integer>1</integer>
+              <key>sharpness</key>
+              <real>0.4</real>
+              <key>transform</key>
+              <array>
+                <real>2.8631003369004664</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>2.8631003369004664</real>
+                <real>-6148.242809923612</real>
+                <real>-10742.755545760589</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>S</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>489.853853136</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

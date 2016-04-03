@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_f" format="1">
+  <advance width="505.0"/>
+  <outline>
+    <contour>
+      <point x="385.0" y="10.0" type="curve"/>
+      <point x="385.0" y="16.0" type="line"/>
+      <point x="385.0" y="22.0"/>
+      <point x="381.0" y="26.0"/>
+      <point x="375.0" y="26.0" type="curve"/>
+      <point x="345.0" y="26.0" type="line"/>
+      <point x="342.0" y="26.0"/>
+      <point x="340.0" y="28.0"/>
+      <point x="340.0" y="31.0" type="curve"/>
+      <point x="340.0" y="632.0" type="line"/>
+      <point x="340.0" y="657.0"/>
+      <point x="347.0" y="674.0"/>
+      <point x="368.0" y="674.0" type="curve"/>
+      <point x="389.0" y="674.0"/>
+      <point x="395.0" y="657.0"/>
+      <point x="395.0" y="632.0" type="curve"/>
+      <point x="395.0" y="595.0" type="line"/>
+      <point x="395.0" y="592.0"/>
+      <point x="397.0" y="590.0"/>
+      <point x="400.0" y="590.0" type="curve"/>
+      <point x="500.0" y="590.0" type="line"/>
+      <point x="503.0" y="590.0"/>
+      <point x="505.0" y="592.0"/>
+      <point x="505.0" y="595.0" type="curve"/>
+      <point x="505.0" y="600.0" type="line"/>
+      <point x="505.0" y="603.0"/>
+      <point x="503.0" y="605.0"/>
+      <point x="500.0" y="605.0" type="curve"/>
+      <point x="492.0" y="605.0" type="line"/>
+      <point x="489.0" y="605.0"/>
+      <point x="487.0" y="607.0"/>
+      <point x="487.0" y="610.0" type="curve"/>
+      <point x="487.0" y="664.0"/>
+      <point x="440.0" y="700.0"/>
+      <point x="372.0" y="700.0" type="curve"/>
+      <point x="259.0" y="700.0"/>
+      <point x="245.0" y="624.0"/>
+      <point x="245.0" y="565.0" type="curve"/>
+      <point x="245.0" y="5.0" type="line"/>
+      <point x="245.0" y="2.0"/>
+      <point x="247.0" y="0.0"/>
+      <point x="250.0" y="0.0" type="curve"/>
+      <point x="375.0" y="0.0" type="line"/>
+      <point x="381.0" y="0.0"/>
+      <point x="385.0" y="4.0"/>
+    </contour>
+    <contour>
+      <point x="145" y="10" type="curve"/>
+      <point x="145" y="16" type="line"/>
+      <point x="145" y="22"/>
+      <point x="141" y="26"/>
+      <point x="135" y="26" type="curve"/>
+      <point x="105" y="26" type="line"/>
+      <point x="102" y="26"/>
+      <point x="100" y="28"/>
+      <point x="100" y="31" type="curve"/>
+      <point x="100" y="582" type="line"/>
+      <point x="100" y="622"/>
+      <point x="126" y="648"/>
+      <point x="167" y="648" type="curve"/>
+      <point x="207" y="648"/>
+      <point x="235" y="640"/>
+      <point x="263" y="612" type="curve"/>
+      <point x="280" y="624" type="line"/>
+      <point x="250" y="654"/>
+      <point x="217" y="680"/>
+      <point x="149" y="680" type="curve"/>
+      <point x="26" y="680"/>
+      <point x="5" y="589"/>
+      <point x="5" y="500" type="curve"/>
+      <point x="5" y="5" type="line"/>
+      <point x="5" y="2"/>
+      <point x="7" y="0"/>
+      <point x="10" y="0" type="curve"/>
+      <point x="135" y="0" type="line"/>
+      <point x="141" y="0"/>
+      <point x="145" y="4"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>blackAndWhite</key>
+              <false/>
+              <key>brightness</key>
+              <integer>0</integer>
+              <key>contrast</key>
+              <integer>1</integer>
+              <key>path</key>
+              <string>/Users/allynsalomon/Desktop/new ref/_Q6Q5586.jpg</string>
+              <key>saturation</key>
+              <integer>1</integer>
+              <key>sharpness</key>
+              <real>0.4</real>
+              <key>transform</key>
+              <array>
+                <real>8.515452517152687</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>8.515452517152687</real>
+                <real>-3108.83364828895</real>
+                <real>-22135.593630929892</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>f_f</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>505.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

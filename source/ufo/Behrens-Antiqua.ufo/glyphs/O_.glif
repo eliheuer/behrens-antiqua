@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O" format="1">
+  <advance width="797"/>
+  <unicode hex="004F"/>
+  <outline>
+    <contour>
+      <point x="396" y="715" type="curve" smooth="yes"/>
+      <point x="601" y="715"/>
+      <point x="771" y="555"/>
+      <point x="771" y="350" type="curve" smooth="yes"/>
+      <point x="771" y="145"/>
+      <point x="601" y="-15"/>
+      <point x="396" y="-15" type="curve" smooth="yes"/>
+      <point x="216" y="-15"/>
+      <point x="24" y="146"/>
+      <point x="24" y="350" type="curve" smooth="yes"/>
+      <point x="24" y="556"/>
+      <point x="216" y="715"/>
+    </contour>
+    <contour>
+      <point x="396" y="20" type="curve" smooth="yes"/>
+      <point x="576" y="20"/>
+      <point x="651" y="175"/>
+      <point x="651" y="350" type="curve" smooth="yes"/>
+      <point x="651" y="510"/>
+      <point x="576" y="680"/>
+      <point x="396" y="680" type="curve" smooth="yes"/>
+      <point x="226" y="680"/>
+      <point x="144" y="510"/>
+      <point x="144" y="350" type="curve" smooth="yes"/>
+      <point x="144" y="176"/>
+      <point x="226" y="20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.image</key>
+            <dict>
+              <key>blackAndWhite</key>
+              <false/>
+              <key>brightness</key>
+              <integer>0</integer>
+              <key>contrast</key>
+              <integer>1</integer>
+              <key>path</key>
+              <string>/Users/allynsalomon/Desktop/behrens shrapnel/behrensbox.jpg</string>
+              <key>saturation</key>
+              <integer>1</integer>
+              <key>sharpness</key>
+              <real>0.4</real>
+              <key>transform</key>
+              <array>
+                <real>4.782476856253363</real>
+                <real>0.0</real>
+                <real>0.0</real>
+                <real>4.782476856253363</real>
+                <real>-8816.36652599771</real>
+                <real>-3197.346467087942</real>
+              </array>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>O</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>797</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
